@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.mlogo{
+    margin-top: 0px;
+    width: 300px;
+    height: 100px;
+}
+h2{
+    font-family: Monotype Corsvia, times, serif;
+
+}
+
+#navbar{
+    margin-top: 0px;
+
+    position: sticky;
+    top: 0;
+    display: flex;
+    background-color: red;
+    background-image: linear-gradient(to right,red, yellow);
+    color: #333;
+    justify-content: space-between;
+    z-index: 1;
+    padding: 1rem;
+}
+#navbar ul{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+}
+
+#navbar ul li{
+    padding: 1rem;
+    margin: 1rem;
+}
