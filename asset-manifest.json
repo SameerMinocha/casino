@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/OnlineCasino/static/css/main.05689da8.chunk.css",
+    "main.js": "/OnlineCasino/static/js/main.8e0fe30f.chunk.js",
+    "main.js.map": "/OnlineCasino/static/js/main.8e0fe30f.chunk.js.map",
+    "runtime-main.js": "/OnlineCasino/static/js/runtime-main.ddf8ef1d.js",
+    "runtime-main.js.map": "/OnlineCasino/static/js/runtime-main.ddf8ef1d.js.map",
+    "static/css/2.4be38407.chunk.css": "/OnlineCasino/static/css/2.4be38407.chunk.css",
+    "static/js/2.ad848f0c.chunk.js": "/OnlineCasino/static/js/2.ad848f0c.chunk.js",
+    "static/js/2.ad848f0c.chunk.js.map": "/OnlineCasino/static/js/2.ad848f0c.chunk.js.map",
+    "static/js/3.eb317d60.chunk.js": "/OnlineCasino/static/js/3.eb317d60.chunk.js",
+    "static/js/3.eb317d60.chunk.js.map": "/OnlineCasino/static/js/3.eb317d60.chunk.js.map",
+    "index.html": "/OnlineCasino/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/OnlineCasino/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.05689da8.chunk.css.map": "/OnlineCasino/static/css/main.05689da8.chunk.css.map",
+    "static/js/2.ad848f0c.chunk.js.LICENSE.txt": "/OnlineCasino/static/js/2.ad848f0c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddf8ef1d.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.ad848f0c.chunk.js",
+    "static/css/main.05689da8.chunk.css",
+    "static/js/main.8e0fe30f.chunk.js"
+  ]
+}
